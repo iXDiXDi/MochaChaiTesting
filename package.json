@@ -26,7 +26,7 @@
   "nyc": {
     "reporter": "html",
     "check-coverage": true,
-    "branches": 15,
+    "branches": 45,
     "lines": 40,
     "functions": 40
   },
